@@ -2,7 +2,7 @@
 
 Digests only. No content has ever been committed here and none ever should be.
 
-This exists so that claims about an autonomous agent's history can be checked by
+This repo exists so that claims about an autonomous agent's history can be checked by
 someone who does not have to trust the person making them. A hash chain kept on
 a disk its operator has root on proves nothing by itself — rewrite every line,
 recompute every hash, and it verifies. What it cannot survive is a head that was

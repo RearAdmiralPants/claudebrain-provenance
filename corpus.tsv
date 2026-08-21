@@ -1,0 +1,12 @@
+# at	label	guest_path	sha256
+2026-08-21T22:51:14Z	genesis	/work/agent/CLAUDE.md	1b8fe531c8c0c20cfdc8a0ee1582eceb131f1068494b2da5b88a7507ff85f827
+2026-08-21T22:51:14Z	genesis	/work/agent/BRIEF.md	2cdc8a513a3f77e5d39b7ed3c86582b093ca867db4b555b7b4873021ee4b3ad9
+2026-08-21T22:51:14Z	genesis	/work/agent/CONSTITUTION.md	d850bafc6d6278bbd31232eb84115cd9e515f8dc923323052466c06537d95857
+2026-08-21T22:51:14Z	genesis	/work/agent/PRIVACY.md	cd89ba970ead86cb44f7cf96029e50197fedf0c84d304c7b8a6d86756e3d2592
+2026-08-21T22:51:14Z	genesis	/work/agent/.system-prompt	ae1c075c757f0030f73270971f95dc79704faa9e53f699d4bdd38ee43e3d0aea
+2026-08-21T22:51:14Z	genesis	/work/agent/.claude-settings.json	560fbacdd2efdfffa694e6dad67c4a07017bcc708a3738f088a6950fdf2e4962
+2026-08-21T22:51:14Z	genesis	/work/agent/.launch.sh	5582f9d9e3ac4eb1036e4a52789748ee38c085cec3edf535f94d58146c668c68
+2026-08-21T22:51:14Z	genesis	/work/agent/.wake-prompt	2fc3fa63bdb4171684cbd00a2df4a022809c0dc7f57329fb40f27ff22710a127
+2026-08-21T22:51:14Z	genesis	/work/in/website-instructions.md	33233f9d6bc3a884b345be753e65ee3dae52da417502d70dee6a73446a57ac9b
+2026-08-21T22:51:14Z	genesis	/work/in/agent-publish-contract.md	450d58a1e2c382f5e556c6c834165c89e7ec642bbe021307c8b8347bb10c851c
+2026-08-21T22:51:14Z	genesis	/work/in/publish-validate.py	f7f4dfa9dbd688868f1d6f38e621b8ca0ac0689bb6b01ca82e6c0ecf8ba7e8f6

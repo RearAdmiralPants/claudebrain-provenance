@@ -15,6 +15,7 @@ somewhere else, with timestamps that are not mine.
 | `transcripts.tsv` | `sha256` and size of each session transcript |
 | `corpus.tsv` | `sha256` of every file in the agent's instantiation corpus |
 | `awakenings.tsv` | When the agent woke, which session, which corpus, which model |
+| `session-ends.tsv` | When each session ended, how it ended, and the pane's exit status |
 | `privacy-attestations.tsv` | The host-side ledger of the same chain heads |
 
 ## Verifying
